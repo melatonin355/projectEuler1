@@ -4,7 +4,8 @@
   "description": "",
   "main": "problem1.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "start": "node problem1.js"
   },
   "author": "abraham",
   "license": "ISC",

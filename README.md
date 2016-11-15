@@ -3,9 +3,11 @@ Using node V6
 
 ```
 npm install
-npm run 
+npm start
 ```
 
 ## Test cases using mocha/chai
+```
 npm test
+```
 
